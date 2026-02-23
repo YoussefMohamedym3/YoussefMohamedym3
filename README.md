@@ -66,17 +66,6 @@ I am passionate about **Context Engineering** and squeezing every bit of perform
 
 <br>
 
-## 📊 Performance Metrics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMohamedym3&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&v=1)](https://github.com/YoussefMohamedym3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedym3&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=ffffff&v=1)](https://github.com/YoussefMohamedym3)
-
-</div>
-
-<br>
-
 <div align="center">
 
 **Rejecting the 'Chatbot' pattern for the robust 'Assembly Line' pattern.**
