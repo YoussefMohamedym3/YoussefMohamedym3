@@ -47,6 +47,17 @@ I am passionate about **Context Engineering** and squeezing every bit of perform
 
 </div>
 
+<br>
+
+## 🚀 Featured Project: nexus-0
+**"The Swappable-Brain Enterprise"** 🧠
+Developing an asynchronous autonomous system that runs locally on consumer hardware (RTX 3060/4060).
+
+* **Winning Architecture:** Employs a **Queue & Swap** protocol using **SGLang**'s RadixAttention for instant context switching between specialized models.
+* **Hardware Mastery:** Fits enterprise stacks into 8GB-12GB VRAM via specialized inference configurations and FSM-based structured output.
+* **Modular Intelligence:** Features "The Boardroom" for reasoning, "The Dev House" for code synthesis, and "The Chief of Staff" for personal accountability.
+
+<br>
 
 ## 💼 Professional Experience
 
@@ -58,12 +69,19 @@ I am passionate about **Context Engineering** and squeezing every bit of perform
 
 <br>
 
+## 🌟 Open Source Contributions
+
+**[Aden Hive (Multi-Agent Framework, 8.1k+ Stars)](https://github.com/aden-hive/hive)**
+* **[PR #5222](https://github.com/aden-hive/hive/pull/5222):** Engineered search and retrieval tools enabling AI agents to autonomously discover and download scientific papers via the arXiv public API. Implemented secure, streaming PDF downloads with auto-cleaning temporary storage and robust error handling.
+
+<br>
+
 ## 📊 Performance Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamedym3&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedym3&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=ffffff" height="165" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMohamedym3&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff)](https://github.com/YoussefMohamedym3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedym3&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=ffffff)](https://github.com/YoussefMohamedym3)
 
 </div>
 
