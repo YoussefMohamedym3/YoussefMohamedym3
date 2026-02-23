@@ -49,16 +49,6 @@ I am passionate about **Context Engineering** and squeezing every bit of perform
 
 <br>
 
-## 🚀 Featured Project: nexus-0
-**"The Swappable-Brain Enterprise"** 🧠
-Developing an asynchronous autonomous system that runs locally on consumer hardware (RTX 3060/4060).
-
-* **Winning Architecture:** Employs a **Queue & Swap** protocol using **SGLang**'s RadixAttention for instant context switching between specialized models.
-* **Hardware Mastery:** Fits enterprise stacks into 8GB-12GB VRAM via specialized inference configurations and FSM-based structured output.
-* **Modular Intelligence:** Features "The Boardroom" for reasoning, "The Dev House" for code synthesis, and "The Chief of Staff" for personal accountability.
-
-<br>
-
 ## 💼 Professional Experience
 
 | Role | Company | Impact |
@@ -80,8 +70,8 @@ Developing an asynchronous autonomous system that runs locally on consumer hardw
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMohamedym3&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff)](https://github.com/YoussefMohamedym3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedym3&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=ffffff)](https://github.com/YoussefMohamedym3)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMohamedym3&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&v=1)](https://github.com/YoussefMohamedym3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedym3&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=ffffff&v=1)](https://github.com/YoussefMohamedym3)
 
 </div>
 
