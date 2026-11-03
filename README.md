@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Youssef%20Mohammed%20Abdelal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20LLM%20Applications%20%7C%20LangGraph%20%26%20RAG&descSize=14&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Youssef%20Mohammed%20Abdelal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20LLM%20Applications%20%7C%20LangGraph%20%26amp%3B%20RAG&descSize=14&descAlignY=58)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohammed-abdelal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmohammedym3@gmail.com)
@@ -15,7 +15,7 @@ AI Engineer with experience developing LLM-powered applications, agentic workflo
 
 <div align="center">
 
-**Professional Work & LLM Applications**
+**Professional Work & LLM Applications**<br />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -30,7 +30,7 @@ AI Engineer with experience developing LLM-powered applications, agentic workflo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Academic & Experimental Projects**
+**Academic & Experimental Projects**<br />
 ![DSPy](https://img.shields.io/badge/DSPy-FFD21E?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-009688?style=flat-square&logo=python&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-EC6013?style=flat-square)
